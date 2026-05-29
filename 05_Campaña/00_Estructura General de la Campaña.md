@@ -38,3 +38,12 @@ Esta es la estructura macro de la campaña. Sirve para medir el progreso del gru
 **Notas de Enlace:**
 * Lista de objetivos mágicos: [[Los 7 Vasos Canopes]]
 * Estado actual de la campaña: [[02_Sesion 2 - El Robo Nocturno]]
+
+## 🎭 El Grupo: La Red del Puerto (Nivel 3)
+* **Vladimir Lenion:** Paladín de la Devoción y líder ideológico del grupo.
+* **Rahim:** Hechicero de Magia Salvaje y esclavo fugitivo de la [[Casa Al-Yassin]].
+* **Zafar:** Pícaro espadachín con lazos en el contrabando y la tripulación traidora.
+* **Arya Voltane:** Hechicera de la Tormenta con sangre génasi de Aire.
+* **El Druida:** Guardián del equilibrio natural y vínculo con el desierto.
+
+---

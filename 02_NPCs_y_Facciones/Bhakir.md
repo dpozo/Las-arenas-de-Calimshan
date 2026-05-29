@@ -14,6 +14,8 @@ Un anciano afable, de barba blanca y ojos sabios y risueños que viste túnicas 
 Bhakir es en realidad un **Dragón de Oropel Adulto (*Brass Dragon*)**. Fascinado por las historias, la cultura y el libre albedrío de las razas mortales, eligió vivir entre los humanos adoptando este disfraz. 
 
 * **Su Rol:** Actúa como el mentor y protector en las sombras del grupo. Les ofrece refugio, consejo e información histórica valiosa sin desvelar su colosal y destructiva identidad verdadera a menos que sea una situación de vida o muerte absoluta.
+* **Intercambio de Información:** Ofrece té a cambio de relatos. Usa ese ritual para evaluar las verdaderas intenciones del grupo.
+* **Observador:** En la sesión 1 detectó el tatuaje de [[Rahim]] sin exponerlo, lo que demuestra que sabe más de lo que aparenta.
 * **Conexión con la Magia:** Posee un conocimiento arcano inmenso sobre la antigua dinastía Shoon. Fue capaz de purificar instantáneamente la [[Mecánica Maldición de la Carne Seca]] que afectó a [[Vladimir Lenion]] en la primera sesión.
 
 > ### 💬 Cita Clave para la Sesión 2:

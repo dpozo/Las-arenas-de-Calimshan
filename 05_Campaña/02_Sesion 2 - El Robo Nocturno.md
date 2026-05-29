@@ -1,11 +1,17 @@
 ---
-tipo: preparacion_sesion
+tipo: diario_sesion
 sistema: dnd5e
-nivel_party: 3
-tags: [sesion_futura, combate, emboscada, kaldash]
+fecha_partida:
+  - Inserta Fecha
+tags:
+  - sesion_jugada
+  - combate
+  - infiltracion
+  - kaldash
+  - espias
 ---
 
-# 🕹️ Sesión 2: El Robo Nocturno (Planificación del DM)
+# 📖 Sesión 2: El Robo Nocturno (Bitácora de lo Ocurrido)
 
 ## 🎯 Objetivos de la Sesión
 1.  Gestionar la huida del bazar y el botín inicial de la caravana.
@@ -27,31 +33,26 @@ Los personajes están frente al carro. La Jandarma se acerca.
 
 ---
 
-## 🗺️ ESCENA 2: La Emboscada de Kaldash
-Independientemente de dónde escondan o transporten el cofre, la [[Casa Al-Yassin]] envía a su mejor cazador esa misma noche. Elige una de estas dos rutas según las decisiones de tus jugadores:
+## 🗺️ ESCENA 2: La Emboscada de Kaldash (Lo Ocurrido)
+La [[Casa Al-Yassin]] envió a su mejor cazador esa misma noche. Los hechos en mesa fueron los siguientes:
 
-### 🛣️ Ruta A: Los PJs se llevaron el Cofre a su Refugio
-*   **Situación:** Ataque nocturno sorpresa a medianoche en el refugio de [[Vladimir Lenion]] ("Los Cimientos Igualitarios").
-*   **Táctica:** **4 [[Cultistas del Sudario]]** rompen las ventanas y puertas secundarias para rodear y bloquear a la party usando su *Obstrucción Sacrificada*. 
-*   **Kaldash:** Ataca desde las alturas (vigas o tejado), usando el alcance de 10 pies de su *Látigo del Sol Negro* para intentar arrebatar el cofre y derribar a los defensores.
+* **Situación real:** Los PJs llevaron el cofre al almacén de [[Bhakir]]. A medianoche Kaldash irrumpió y, aprovechando la sorpresa, logró arrebatar el cofre y huir en un solo turno de sorpresa.
+* **Atacantes:** En lugar de cultistas organizados, los agresores resultaron ser **espías profesionales** al servicio de la Casa Al-Yassin: unidades rápidas y entrenadas para robar y desaparecer.
+* **Desarrollo:** La party quedó ocupada combatiendo a estos espías. Aunque infligieron bajas, los espías solicitaron refuerzos y, cuando estaban cerca de ser derrotados, también huyeron. Kaldash ya había desaparecido con el cofre.
+* **Recuperación de inteligencia:** Tras la retirada, la party y los aliados locales lograron capturar a uno de los espías. Llevado al refugio de Vladimir y sometido a interrogatorio, reveló que el cofre sería trasladado primero a la [[Villa Al-Yassin]] y desde allí a un asentamiento familiar en mitad del desierto, donde además transportaban a **dos esclavos de "sangre especial"** —los padres de [[Rahim]].
+* **Decisión del grupo:** Vladimir ofreció al espía la posibilidad de redimirse y le brindó refugio en "Los Cimientos Igualitarios" a cambio de más información. La sesión terminó con el espía bajo custodia y la party organizando su siguiente movimiento.
 
-### 🛣️ Ruta B: Los PJs dejaron el Cofre oculto en el Bazar
-*   **Situación:** Un humo denso con olor a ozono se eleva desde el bazar. Si los PJs van a investigar, interceptan la escena.
-*   **Escena:** Kaldash está cargando el cofre en un carruaje blindado escoltado por **4 [[Cultistas del Sudario]]**.
-*   **Diálogo de Kaldash al ver a Rahim:** 
-    > *"El amo Farid te echa de menos, pequeña mascota. Tu celda sigue limpia. Muchachos, matad al resto; a la rata verde y al paladín los quiero en cadenas."*
-
-### ⚔️ Notas de Combate (Ver [[Kaldash El Rastreador de Almas]])
-*   Usa a los cultistas como *Escudo de Carne* de Kaldash.
-*   **Condición de Escape:** En cuanto Kaldash baje del **50% de PG (32 PG o menos)** o logre asegurar el cofre, usará su *Deslizamiento Sombrío* para huir por los tejados, dejando a los cultistas sacrificarse para cubrir su retirada.
+### ⚔️ Notas de Combate y Consecuencias
+* Kaldash priorizó la movilidad y la sorpresa: su objetivo era asegurar el cofre y evaporarse antes de enfrentarse a una defensa organizada.
+* Los espías están entrenados para huir cuando la misión se complica; eso complica las persecuciones largas.
 
 ---
 
-## 🗺️ ESCENA 3: El Descubrimiento de la Villa
-Tanto si persiguen a Kaldash como si siguen el rastro del carruaje, acaban frente a la [[Villa Al-Yassin]]. 
-*   Describe las defensas inalcanzables (10 Mamluks, muros con cristales, cúpula arcana) para frenar un ataque suicida.
-*   **El Cierre de Bhakir:** Bhakir los detiene si intentan entrar: 
-    > *"Esa villa es un nido de escorpiones acorazados. Entrar por la fuerza ahora es firmar vuestra sentencia de muerte. Pero escuchadme bien: todo señor noble tiene un sirviente descontento, y toda gran fortaleza comparte sus cimientos con las cloacas del Muzad. Si queremos salvar a los padres de Rahim y arrebatarles ese Vaso, necesitamos un plan inteligente. Volvamos al refugio."*
+## 🗺️ ESCENA 3: Interrogatorio
+
+*   **Información clave:** El espía capturado confirmó que la Villa era punto de tránsito: desde allí el cofre se prepararía para su traslado al asentamiento familiar en el desierto donde estaban los esclavos de "sangre especial".
+
+La sesión finalizó con el espía interrogado en el refugio y la party trazando un plan para seguir la ruta del cofre hacia el desierto.
 
 ---
 **Notas de Enlace:**
